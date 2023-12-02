@@ -1,0 +1,15 @@
+{
+  "name": "raft-bot",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "node-raft-redis": "^0.1.1"
+  }
+}
